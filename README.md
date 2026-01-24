@@ -2,6 +2,8 @@
 
 This project implements an end-to-end data processing pipeline for converting unstructured job seeker data into a structured, upload-ready format for ONEST Blue Dots onboarding.
 
+* assignment:- [ONEST Data Intern Assignment](/ONEST%20Data%20Intern%20Assignment.pdf)
+
 ## Objective
 - Clean and validate raw job seeker data
 - Standardize schema as per ONEST template
